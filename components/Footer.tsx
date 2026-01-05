@@ -123,7 +123,10 @@ export default function Footer() {
               <Link href="#" className="text-slate-500 text-sm hover:text-rose-500 transition-colors duration-300">
                 Cookie Policy
               </Link>
-            </div></div>
+            </div>
+          </div>
+        </div>
+      </div>
     </footer>
-  </div></div>);
+  );
 }
